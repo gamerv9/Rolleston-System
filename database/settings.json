@@ -1,0 +1,213 @@
+{
+    "line": "رابط صورة الخط",
+    "bank": "ايدي حساب البنك",
+    "privateroomsAvailable": 15,
+    "privateRoomsLog": "ايدي روم لوج الرومات الخاصة",
+    "privateRoomsCategory": "ايدي كاتيجوري الرومات الخاصة",
+    "postsRoom": "ايدي روم المنشورات المميزة",
+    "postsLogsRoom": "ايدي روم لوج المنشورات المميزة",
+    "normalRolesNames": {
+        "role1": "Pro S",
+        "role2": "Super S",
+        "role3": "Excellent S",
+        "role4": "Good S",
+        "role5": "Normal S",
+        "role6": "Designer S",
+        "role7": "Developer S"
+    },
+    "normalRolesIDs": {
+        "role1": "ايدي الرتبة الاولى",
+        "role2": "ايدي الرتبة الثانية",
+        "role3": "ايدي الرتبة الثالثة",
+        "role4": "ايدي الرتبة الرابعة",
+        "role5": "ايدي الرتبة الخامسة",
+        "role6": "ايدي الرتبة السادسة",
+        "role7": "ايدي الرتبة السابعة"
+    },
+    "rareRolesNames": {
+        "role1": "Elite S",
+        "role2": "Master S",
+        "role3": "Grand S"
+    },
+    "rareRolesIDs": {
+        "role1": "ايدي الرتبة النادرة الاولى",
+        "role2": "ايدي الرتبة النادرة الثانية",
+        "role3": "ايدي الرتبة النادرة الثالثة"
+    },
+    "rareRolesAvailable": {
+        "role1": 10,
+        "role2": 15,
+        "role3": 20
+    },
+    "rolesLogsRoom": "ايدي روم لوج الرتب",
+    "warnsRolesIDs": {
+        "warn1": "%ايدي رتبة التحذير 50",
+        "warn2": "%ايدي رتبة التحذير 100"
+    },
+    "warnsLogsRoom": "ايدي روم لوج التحذيرات",
+    "rolesIds": [
+        "حط هنا جميع ايديهات (ايدي) الرتبة العادية و الفخمة",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "orderSystem": {
+        "montajetChannel": "ايدي روم طلبات المنتجات",
+        "barmajyatChannel": "ايدي روم طلبات البرمجيات",
+        "tasamimChannel": "ايدي روم طلبات التصاميم",
+        "ordersRole": "ايدي رتبة الطلبات",
+        "orderRoomLogs": "ايدي روم لوج الطلبات",
+        "ordersAdminRole": "ايدي رتبة المسؤول على حذف الطلبات"
+    },
+    "warnSellersSystem": {
+        "adminRole": "ايدي رتبة المسؤول على تحذير البائعين",
+        "channelID": "ايدي روم التحذيرات"
+    },
+    "tachfirLogsRoom": "ايدي روم لوج التشفير",
+    "adsNames": {
+        "plan1": "اعلان + دون منشن",
+        "plan2": "اعلان + منشن هير",
+        "plan3": "اعلان + منشن ايفري ون",
+        "plan4": "اعلان + جيف اوي",
+        "plan5": "اعلان + روم خاصه بدون جيف اوي",
+        "plan6": "اعلان + روم خاصه بجيف اوي",
+        "plan7": "اعلان + روم خاصة في اول روم بالسيرفر + جيف اوي"
+    },
+    "adsChannelMention": "ايدي روم اعلانات المنشن",
+    "adsGiveawayRoom": "ايدي روم اعلانات الهدايا",
+    "adsPrivateRoomCategory": "ايدي كاتيجوري الاعلانات في رومات خاصة",
+    "adsFirstPrivateRoomCategory": "ايدي كاتيجوري الاعلانات في اول روم بالسيرفر",
+    "adsLogsRoom": "ايدي روم لوج الاعلانات",
+    "openAndCloseSystem": {
+        "buyChannels": [
+            "حط هنا جميع ايديهات (ايدي) رومات البيع",
+            "",
+            ""
+        ],
+        "announcementsRoom": "ايدي روم غلق و فتح الرومات"
+    },
+    "SupportTickets": {
+        "supportRole": "ايدي رتبة الدعم الفني المسؤول على الرد على التذاكر",
+        "ticketsCategory": "ايدي كاتيجوري التذاكر",
+        "ticketsLogs": "ايدي روم لوج التذاكر"
+    },
+    "supportRole": "ايدي رتبة الدعم الفني (السبورت)",
+    "support_Ratb": [
+        {
+            "name": "・↭ ⦙⁞ NewAdmin :",
+            "id": "ايدي الرتبة",
+            "tickets": 1000,
+            "warns": 700
+        },
+        {
+            "name": "・↭ ⦙⁞ Support :",
+            "id": "ايدي الرتبة",
+            "tickets": 1300,
+            "warns": 1000
+        },
+        {
+            "name": "・↭ ⦙⁞  Mod :",
+            "id": "ايدي الرتبة",
+            "tickets": 1600,
+            "warns": 1300
+        },
+        {
+            "name": "・↭ ⦙⁞ Admin :",
+            "id": "ايدي الرتبة",
+            "tickets": 2000,
+            "warns": 1600
+        },
+        {
+            "name": "・↭ ⦙⁞ Director :",
+            "id": "ايدي الرتبة",
+            "tickets": 2300,
+            "warns": 1900
+        },
+        {
+            "name": "・↭ ⦙⁞ General :",
+            "id": "ايدي الرتبة",
+            "tickets": 2500,
+            "warns": 2200
+        },
+        {
+            "name": "・↭ ⦙⁞ Master :",
+            "id": "ايدي الرتبة",
+            "tickets": 3000,
+            "warns": 2500
+        },
+        {
+            "name": "・↭ ⦙⁞ Manager :",
+            "id": "ايدي الرتبة",
+            "tickets": 3500,
+            "warns": 2800
+        },
+        {
+            "name": "・↭ ⦙⁞ Advisor :",
+            "id": "ايدي الرتبة",
+            "tickets": 4000,
+            "warns": 3300
+        },
+        {
+            "name": "・↭ ⦙⁞ Leader :",
+            "id":"ايدي الرتبة",
+            "tickets": 4500,
+            "warns": 3700
+        },
+        {
+            "name": "・↭ ⦙⁞ Power :",
+            "id": "ايدي الرتبة",
+            "tickets": 5000,
+            "warns": 4000
+        }
+    ],
+    "wassitRole": "ايدي رتبة الوسيط",
+    "wasit_Ratb": [
+        {
+            "name": "・↭ ⦙⁞ وسيط تجريبي :",
+            "id": "ايدي الرتبة",
+            "tickets": 500
+        },
+        {
+            "name": "・↭ ⦙⁞ وسيط ¹ :",
+            "id": "ايدي الرتبة",
+            "tickets": 800
+        },
+        {
+            "name": "・↭ ⦙⁞ وسيط ² :",
+            "id": "ايدي الرتبة",
+            "tickets": 1200
+        },
+        {
+            "name": "・↭ ⦙⁞ وسيط ³ :",
+            "id": "ايدي الرتبة",
+            "tickets": 1500
+        },
+        {
+            "name": "・↭ ⦙⁞ وسيط ⁴ :",
+            "id": "ايدي الرتبة",
+            "tickets": 1800
+        }
+    ],
+    "kadhiRole": "ايدي رتبة القاضي",
+    "mshrofKodhatRole": "ايدي رتبة مشرف القضاة",
+    "mas2oulyat": {
+        "supportPoints": [
+            "ايدي رتبة المسؤول على نقاط الادارة"
+        ]
+    },
+    "staffPointsLogs": "ايدي روم لوج نقاط الادارة",
+    "blackListLogsRoom": "ايدي روم لوج البلاك ليست",
+    "blackList": {
+        "mazad": "ايدي رتبة بلاك ليست مزاد",
+        "tickets": "ايدي رتبة بلاك ليست تذاكر",
+        "staff": "ايدي رتبة بلاك ليست ادارة"
+    },
+    "transferLogsRoom": "ايدي روم لوج نقل رتب البيع لحساب ثاني",
+    "nassbinRoom": "ايدي روم تشهير النصابين",
+    "feedbackRoom" : "ايدي روم الاراء",
+    "commandsRoom" : "ايدي روم الاوامر"
+}
